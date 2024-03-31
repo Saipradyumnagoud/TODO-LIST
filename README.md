@@ -44,4 +44,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-👉<a href="https://saipradyumnagoud.github.io/TODO-LIST/">demo</a>
+👉<a href="https://saipradyumnagoud.github.io/TODO-LIST/" target="_blank">demo</a>
